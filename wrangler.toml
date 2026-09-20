@@ -1,0 +1,11 @@
+name = "luciane-correa-servicios"
+pages_build_output_dir = "dist/public"
+compatibility_date = "2026-08-01"
+
+[[kv_namespaces]]
+binding = "VISITS_KV"
+id = "605186557eae4bed8a090ee061551929"
+
+[[kv_namespaces]]
+binding = "TESTIMONIALS_KV"
+id = "00a18469f41549aab93813a2ceffd2f1"
