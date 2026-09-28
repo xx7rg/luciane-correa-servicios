@@ -509,7 +509,7 @@ export default function Home() {
             </div>
           )}
         </div>
-        <div className="footer-credit">Proyecto por <a href="https://www.instagram.com/lu250779/" target="_blank" rel="noreferrer"><strong>x7rG ENTERPRISE</strong></a></div>
+        <div className="footer-credit">Proyecto por <a href="https://www.instagram.com/_7ragnar/" target="_blank" rel="noreferrer"><strong>x7rG ENTERPRISE</strong></a></div>
       </footer>
     </div>
   );
