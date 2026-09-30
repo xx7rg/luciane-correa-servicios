@@ -15,6 +15,7 @@
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-3178C6?logo=typescript&logoColor=white)
 ![versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-8A2BE2)
+[![CI](https://github.com/xx7rg/luciane-correa-servicios/actions/workflows/ci.yml/badge.svg)](https://github.com/xx7rg/luciane-correa-servicios/actions/workflows/ci.yml)
 
 [**Visitar o site**](https://luciane-correa-servicios.pages.dev/)
 
