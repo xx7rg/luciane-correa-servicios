@@ -104,6 +104,7 @@ Esse comando gera o build e inicia o Cloudflare Pages local com as Functions e o
 | --- | --- |
 | `pnpm dev` | Inicia somente a interface com atualização automática. |
 | `pnpm check` | Verifica os tipos TypeScript. |
+| `pnpm audit --audit-level high` | Audita as dependências e reprova alertas altos ou críticos. |
 | `pnpm build` | Gera o frontend em `dist/public` e o servidor em `dist/index.js`. |
 | `pnpm preview` | Serve uma prévia do frontend já gerado. |
 | `pnpm start` | Entrega o build pelo servidor Express. |
